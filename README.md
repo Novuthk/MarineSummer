@@ -3,24 +3,23 @@
 ![]( https://i.imgur.com/vCAeqWD.png )
 
 # Menu
-![]( https://i.imgur.com/nanq9lE.png )
-![]( https://i.imgur.com/sCiCMO8.png )
-![]( https://i.imgur.com/d9lhWCY.png )
+![]( https://i.imgur.com/FsJ5xRL.png )
+![]( https://i.imgur.com/ENmAh0X.png )
+![]( https://i.imgur.com/MVaUSRT.png )
 
 # Gameplay
-![]( https://i.imgur.com/N5lKWXl.png )
-![]( https://i.imgur.com/WccpqNh.png )
-![]( https://i.imgur.com/xqjLjxQ.png )
+![]( https://i.imgur.com/xK38dmr.png )
+![]( https://i.imgur.com/pbCJKhb.png )
 
 # Pause & Fail Screen
-![]( https://i.imgur.com/fitdLdF.png )
-![]( https://i.imgur.com/bfjLbo3.png )
+![]( https://i.imgur.com/Um6W2CC.png )
+![]( https://i.imgur.com/y7rjjH9.png )
 
 # Skip & Section Screen
-![]( https://i.imgur.com/f2wYR1Z.png )
-![]( https://i.imgur.com/XqZahKx.png )
-![]( https://i.imgur.com/tq63asq.png )
+![]( https://i.imgur.com/4jd7W6f.png )
+![]( https://i.imgur.com/m3oLtTj.png )
+![]( https://i.imgur.com/SI4zsOK.png )
 
 # Ranking Panel
-![]( https://i.imgur.com/aDvlpC4.png )
-![]( https://i.imgur.com/f90Z9f9.png )
+![]( https://i.imgur.com/0I05f1x.png )
+![]( https://i.imgur.com/nY6DXMP.png )
