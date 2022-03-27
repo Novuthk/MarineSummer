@@ -1,4 +1,4 @@
-## 《 Novu 》  « MarineSummer
+## 《 Novu 》  « MarineSummer »
 Credit: [Novu](https://osu.ppy.sh/users/17561095)
 
 ![]( https://i.imgur.com/i7pRORZ.png )
